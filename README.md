@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hieu CT</h1>
 <h3 align="center">A student studying at SoICT, Hanoi University of Science and Technology, specializing in Computer Science.</h3>
 
-- 🌱 I’m currently learning **Python, DSA, ...**
+- 🌱 I’m currently learning **Advanced mathematics, Python, DSA, ...**
 
 - 📫 How to reach me **hieuct26.py@gmail.com**
 
