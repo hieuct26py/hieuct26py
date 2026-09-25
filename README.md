@@ -37,5 +37,3 @@
 <ul>
   <li><b><a href="https://github.com/hieuct26py/velora-ecommerce">Velora E-Commerce API:</a></b> Engineered a highly concurrent RESTful API using Node.js, Express, and Prisma. Prevented PostgreSQL deadlocks via lock ordering, optimized queries with composite indexes, and implemented strict pagination limits to prevent OOM exceptions.</li>
 </ul>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hieuct26py&show_icons=true&locale=en&theme=radical" alt="hieuct26py stats" /></p>
