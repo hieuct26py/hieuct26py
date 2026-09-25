@@ -7,7 +7,7 @@
 
 - 🔭 **Currently working on:** High-performance Backend Architecture, focusing on **Node.js, Express, and PostgreSQL** (Transaction management, lock ordering).
 - 🌱 **Currently learning:** System Design, Caching mechanisms, and Automation Testing (SDET).
-- 🏆 **Background:** Competitive Programming (Regional & City Informatics Olympiad Medalist).
+- 🏆 **Background:** Competitive Science.
 - 📫 **How to reach me:** **hieuct26.py@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
